@@ -7,3 +7,4 @@
 ```shell
 asdf plugin add envcli https://github.com/zekker6/asdf-envcli.git
 ```
+
